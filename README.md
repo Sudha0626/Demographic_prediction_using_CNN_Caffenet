@@ -37,7 +37,7 @@ OpenCV Face Detector (opencv_face_detector_uint8.pb)
       ↓
 Face ROI Extraction (per detected face)
       ↓
-  ┌───────────────────┬───────────────────┐
+  ┌───────────────────┬
   ↓                   ↓
 Age Net           Gender Net
 (Caffe)           (Caffe)
