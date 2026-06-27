@@ -54,8 +54,8 @@ Age Range         Gender Label
 
 ```bash
 # Clone the repo
-git clone https://github.com/Sudha0626/Face-detection-with-gender-and-age.git
-cd Face-detection-with-gender-and-age
+git clone https://github.com/Sudha0626/Demographic_prediction_using_CNN_Caffenet.git
+cd Demographic_prediction_using_CNN_Caffenet
 
 # Install dependencies
 pip install opencv-python
@@ -69,7 +69,7 @@ python detect.py --image your_image.jpg
 ## 📁 Project Structure
 
 ```
-Face-detection-with-gender-and-age/
+Demographic_prediction_using_CNN_Caffenet/
 ├── detect.py                        # Main inference script
 ├── opencv_face_detector_uint8.pb    # Face detection model
 ├── opencv_face_detector.pbtxt       # Face detector config
